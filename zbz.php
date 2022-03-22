@@ -1,5 +1,5 @@
 {
-    <fenlei>央视高清-卫视高清-4KHDR-NewTV-直播中国-熊猫频道-咪咕轮播</fenlei>
+<fenlei>央视高清-卫视高清-4KHDR-NewTV-直播中国-熊猫频道-咪咕轮播</fenlei>
 
 #央视高清头#
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls#
@@ -96,6 +96,9 @@ CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8#
 #4KHDR尾#
 
 #NewTV头#
+喜羊羊,http://118.26.120.23:55336/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1#
+猫和老鼠,http://106.53.212.251/daili/bili.php?id=22905626#
+小猪佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8#
 NewTV广东,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226185/index.m3u8#
 NewTV山东,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226184/index.m3u8#
 NewTV黑龙江,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226192/index.m3u8#
