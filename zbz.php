@@ -2,7 +2,6 @@
 <fenlei>央视高清-卫视高清-4KHDR-NewTV-直播中国-熊猫频道-咪咕轮播</fenlei>
 
 #央视高清头#
-央视新闻·正直播,https://live-play.cctvnews.cctv.com/cctv/merge10.m3u8#
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls#
 CCTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225500/index.m3u8?fmt=ts2hls#
 CCTV3,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8#
@@ -23,6 +22,7 @@ CCTV14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m3
 CCTV15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8#
 CCTV16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226233/index.m3u8#
 CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8#
+央视新闻·正直播,https://live-play.cctvnews.cctv.com/cctv/merge10.m3u8#
 怀旧剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls#
 兵器科技,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls#
 世界地理,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls#

@@ -2,9 +2,8 @@
 <fenlei>央视高清-央视咪咕-央视移动-卫视高清-卫视移动</fenlei>
 
 #央视高清头#
-央视新闻·正直播,https://live-play.cctvnews.cctv.com/cctv/merge10.m3u8#
-CCTV1,http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8#
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#
+CCTV1,http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8#
 CCTV2,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8#
 CCTV2,http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8#
 CCTV3,http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8#
@@ -30,7 +29,8 @@ CCTV14,http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8#
 CCTV14,http://39.135.138.59:18890/PLTV/88888910/224/3221225640/index.m3u8#
 CCTV15,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8#
 CCTV16奥林匹克,http://iptv.tvfix.org/hls/cctv16hd.m3u8#
-CCTV17,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
+CCTV17,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8#
+央视新闻·正直播,https://live-play.cctvnews.cctv.com/cctv/merge10.m3u8
 #央视高清尾#
 
 #央视咪咕头#
