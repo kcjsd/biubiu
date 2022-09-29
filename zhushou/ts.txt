@@ -462,7 +462,7 @@
 {"name":"九亿","url":"https://m3u8.look4you.top/?url="}
 ],
 
-"dianshizhibo": "http://www.m9527.top/blive.txt",
+"dianshizhibo": "https://cdn.jsdelivr.net/gh/kcjsd/biubiu@master/zhushou/blive.txt",
  
 "guolvdizhi": "player.css#url=#51.la#poster#api.php#file=#auth_#cnzz.com",
  
