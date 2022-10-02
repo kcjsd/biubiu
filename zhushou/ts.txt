@@ -507,7 +507,7 @@
 
 
 
-{"name":">智能解析","url":"https://1717.ntryjd.net/1717yun/?url="},
+{"name":"智能解析","url":"https://1717.ntryjd.net/1717yun/?url="},
 
 
 
@@ -535,6 +535,27 @@
 {"name":"云解析","url":"https://jx.iztyy.com/svip/?url="},
  
 {"name":"52解析","url":"https://52.jx.cn/jx.html?url="},
+
+
+
+{"name":"接口2","url":"http://www.xierizhi.cn/vip.html?i="},
+{"name":"接口3","url":"http://jx.zui.cm/?url="},
+{"name":"接口","url":"http://jx.aidouer.net/?url="},
+{"name":"接口5","url":"http://jsap.attakids.com/?url="},
+{"name":"接口6","url":"http://www.urlkj.com/?url="},
+{"name":"接口7","url":"http://okjx.cc/?url="},
+{"name":"接口8","url":"http://jx.m3u8.tv/jiexi/?url="},
+{"name":"json2","url":"http://json.jszhongyong.cn/2.php/?url="},
+{"name":"json1","url":"http://api.vip123kan.vip/?url="},
+{"name":"json3","url":"http://apis.jxcxin.cn/api/jx?url="},
+{"name":"json4","url":"http://vvip.funsline.cn/api/?key=dQm8zCPNw12H3nZBdv&url="},
+{"name":"json5","url":"http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url="},
+{"name":"json6","url":"http://analysis.yikan.one/analysis/json/?uid=8&my=fjkmoqFJLORTVZ1359&url="},
+{"name":"json7","url":"http://json.iopenyun.com:33/cms_m3u8_api.php?url="},
+{"name":"json8","url":"http://jxgg.work/json.php?url="},
+
+
+
 
 
 
